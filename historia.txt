@@ -1,6 +1,6 @@
 Soy Juan Lopez, esta es mi historia
 
-Tengo 29 años y soy de Colombia, Estudio en Miami, FL
+Tengo 30 años y soy de Colombia, Estudio en Miami, FL y vivo en todo el mundo
 
-Hoy aprenderemos a usar github
+Hoy aprenderemos a usar github junto a Platzi
 
